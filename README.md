@@ -37,6 +37,13 @@ Focus Mitra is built around open-source AI principles:
 
 ---
 
+## 🌐 Live Demo
+
+Try the live web app deployed on GitHub Pages:
+👉 **[https://lalit-oli-mohan-479.github.io/Focus_Mitra/](https://lalit-oli-mohan-479.github.io/Focus_Mitra/)**
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
