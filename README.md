@@ -1,4 +1,4 @@
-# 🎯 Focus Mitra (फोकस मित्र)
+# 🎯 Focus Mitra
 > **A gentle, privacy-first AI study companion for students and creators who struggle with focus, overwhelm, and study burnout.**
 
 Built with ❤️ for a friend who battles ADHD, procrastination, and anxiety when starting large study sessions.
